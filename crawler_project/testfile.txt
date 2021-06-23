@@ -1,0 +1,1 @@
+[<Selector xpath='//html/body/text()' data='\r\n    \r\n\t\t'>, <Selector xpath='//html/body/text()' data='\r\n\t\t'>, <Selector xpath='//html/body/text()' data='\r\n\t\t'>, <Selector xpath='//html/body/text()' data='\r\n\t\t'>, <Selector xpath='//html/body/text()' data='\r\n    \r\n    '>]

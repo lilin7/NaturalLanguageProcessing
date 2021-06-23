@@ -1,0 +1,4 @@
+a                    {'df': 3, 'postingsList_with_tf': {3: 11, 2: 10, 1: 6}}
+b                    {'df': 1, 'postingsList_with_tf': {4: 1}}
+c                    {'df': 2, 'postingsList_with_tf': {1: 1, 4: 1}}
+d                    {'df': 1, 'postingsList_with_tf': {4: 1}}
